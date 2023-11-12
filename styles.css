@@ -1,1 +1,28 @@
 /* Write your CSS here! */
+
+body {
+    margin: 8px;
+    display: block;
+    text-align: center;
+}
+
+#mainHeading {
+    color: red;
+    font-size: 24px;
+    text-align: center;
+}
+
+.funParagraph {
+    font-style: bold;
+    font-size: 18px;
+    font-style: italic;
+    font-family: Verdana;
+    color: green;
+    margin-bottom: 10px;
+}
+
+h2 {
+    color: red;
+    font-size: 36px;
+    text-align: center;
+}
